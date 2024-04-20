@@ -10,15 +10,17 @@ Home: www.kataxwork.com
 
 This application:
 
->Using events and event dispatchers for communicate with actors on scene.
+>Using actor reference to communicate with actor on scene.
 
->Using events and event dispatchers to communicate with HUD and widget actors. (UI)
+>Using events and event dispatchers to communicate with actors on scene.
 
 >Hotkeys: E, Q and F for activate events, R for reset event and U to globally execute events 
 
 >Blueprint only
 
 Using:
+
+Reference
 
 Events and Event Dispatchers
 
