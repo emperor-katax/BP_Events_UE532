@@ -14,7 +14,7 @@ This application:
 
 >Using events and event dispatchers to communicate with HUD and widget actors. (UI)
 
->Hotkeys: E, Q and F for activate keys, R for reset keys and O to execute "ke*" event call
+>Hotkeys: E, Q and F for activate events, R for reset event and U to globaly execute events 
 
 >Blueprint only
 
