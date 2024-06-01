@@ -5,6 +5,7 @@ by: Katax
 LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
 Home: www.kataxwork.com<br> 
 
+[!NOTE] Blueprint only <br> 
 This application:
 
 >Using actor reference to communicate with actor on scene.<br> 
@@ -23,6 +24,6 @@ Global event call <br>
 
 <h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
-$${\color{lightgreen}Blueprint \space only}$$ 
-<br>
+[!NOTE]Blueprint only
+
 
