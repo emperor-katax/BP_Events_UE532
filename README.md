@@ -6,9 +6,7 @@ LinkedIn: www.linkedin.com/in/cliff-sharif<br>
 Home: www.kataxwork.com<br> 
 
 > [!NOTE]
-> Highlights 
-
-[!NOTE] Blueprint only <br> 
+> Blueprint only
 
 This application:
 
