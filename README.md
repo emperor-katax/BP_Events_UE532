@@ -31,5 +31,5 @@ RotatingMovement component
 
 Global event call 
 
-<h2> This project is designed for teaching Unreal Engine by presenting a functional prototype. </h2>
+<h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
