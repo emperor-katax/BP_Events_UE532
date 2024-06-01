@@ -3,7 +3,6 @@ Developed with Unreal Engine 5.3.2
 
 by: Katax
 
-
 LinkedIn: www.linkedin.com/in/cliff-sharif
 
 Home: www.kataxwork.com
@@ -31,4 +30,6 @@ Custom Widget
 RotatingMovement component
 
 Global event call 
+
+<h2> This project is designed for teaching Unreal Engine by presenting a functional prototype. </h2>
 
