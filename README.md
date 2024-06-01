@@ -5,7 +5,11 @@ by: Katax
 LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
 Home: www.kataxwork.com<br> 
 
->[!NOTE] >Blueprint only <br> 
+> [!NOTE]
+> Highlights 
+
+[!NOTE] Blueprint only <br> 
+
 This application:
 
 >Using actor reference to communicate with actor on scene.<br> 
