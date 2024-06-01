@@ -1,18 +1,16 @@
 # BP_Events_UE532
-Developed with Unreal Engine 5.3.2 
-
+Developed with Unreal Engine 5.3.2 <br> 
 by: Katax
 
-LinkedIn: www.linkedin.com/in/cliff-sharif
-
-Home: www.kataxwork.com
+LinkedIn: www.linkedin.com/in/cliff-sharif<br> 
+Home: www.kataxwork.com<br> 
 
 This application:
 
->Using actor reference to communicate with actor on scene.
->Using events and event dispatchers to communicate with actors on scene.
->Hotkeys: E, Q and F for activate events, R for reset event and U to globally execute events 
->Blueprint only
+>Using actor reference to communicate with actor on scene.<br> 
+>Using events and event dispatchers to communicate with actors on scene.<br> 
+>Hotkeys: E, Q and F for activate events, R for reset event and U to globally execute events.<br> 
+>Blueprint only<br> 
 
 Using:
 
