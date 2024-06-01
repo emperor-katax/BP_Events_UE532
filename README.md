@@ -22,6 +22,7 @@ RotatingMovement component<br>
 Global event call <br> 
 
 <h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
-<br> 
-$${\color{lightgreen}Blueprint \space only}$$ <br> 
+
+$${\color{lightgreen}Blueprint \space only}$$ 
+<br>
 
