@@ -16,12 +16,12 @@ This application:
 
 Using:
 
-Reference
-Events and Event Dispatchers
-Collision event
-Custom Widget
-RotatingMovement component
-Global event call 
+Reference<br> 
+Events and Event Dispatchers<br> 
+Collision event<br> 
+Custom Widget<br> 
+RotatingMovement component<br> 
+Global event call <br> 
 
 <h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
 
