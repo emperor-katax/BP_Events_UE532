@@ -10,13 +10,9 @@ Home: www.kataxwork.com
 This application:
 
 >Using actor reference to communicate with actor on scene.
-
 >Using events and event dispatchers to communicate with actors on scene.
-
 >Hotkeys: E, Q and F for activate events, R for reset event and U to globally execute events 
-
 >Blueprint only
-
 Using:
 
 Reference
