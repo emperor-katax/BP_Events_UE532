@@ -1,5 +1,4 @@
 # BP_Events_UE532
-$${\color{lightgreen}Blueprint \space only}$$ <br> 
 Developed with Unreal Engine 5.3.2 <br> 
 by: Katax
 
@@ -23,4 +22,6 @@ RotatingMovement component<br>
 Global event call <br> 
 
 <h4> This project is designed for teaching Unreal Engine by demonstration a functional prototype. <br> The project template is optimized to reduce size.  </h4>
+<br> 
+$${\color{lightgreen}Blueprint \space only}$$ <br> 
 
