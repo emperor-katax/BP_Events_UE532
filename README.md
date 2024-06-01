@@ -1,4 +1,5 @@
 # BP_Events_UE532
+$${\color{lightgreen}Blueprint \space only}$$ <br> 
 Developed with Unreal Engine 5.3.2 <br> 
 by: Katax
 
@@ -10,7 +11,7 @@ This application:
 >Using actor reference to communicate with actor on scene.<br> 
 >Using events and event dispatchers to communicate with actors on scene.<br> 
 >Hotkeys: E, Q and F for activate events, R for reset event and U to globally execute events.<br> 
-> $${\color{ Blueprint only }Light \space Green}$$ <br> 
+
 
 Using:
 
